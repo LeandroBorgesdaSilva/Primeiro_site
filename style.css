@@ -20,17 +20,19 @@ padding: 10px;
 
 .nomesite{
 width: 210px;
-
+border: 100px;
 }
 
 .nomesite h1{
     border-radius: 10px;
     color:white;
     text-transform:uppercase;
-    background-color:black;
+    border: solid 3px black;
     font-size: 30px;
     text-decoration:none;
     font-family:arial;
+    text-align:center;
+    background-color:black;
 }
 
 .opções li{
@@ -59,6 +61,7 @@ width: 210px;
     padding:25px;
     border-radius:10px;
     border: 1px solid black;
+    margin:30px;
 }
  
 .corpo p {
@@ -73,5 +76,11 @@ width: 210px;
 
 .video{
     text-align:center;
-    border: 1px solid black;
+   
+   
+}
+
+.video video{
+    border: 10px solid black;
+    border-radius: 10px;
 }
