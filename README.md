@@ -31,9 +31,9 @@
 <h1>🏡Estrutura de seletores CSS que usei em meu site</h1>
 <p>Utilizei o seletor universal * para alterar o padding, margin e box-sizing de todos os elementos da minha página</p>
 
-<p>Utilizei o seletor de tipo 'body' para alterar a cor do background do meu site e também esconder o scrool para os lados</p>
+<p>Utilizei o seletor de tipo 'body' para alterar tudo que estiver dentro do body do meu site, nele eu alterei a cor do background do meu site e também esconder o scrool para os lados</p>
 
-<p>Utilizei o seletor de tipo 'nav' para modificar a minha navigation bar, alterei o seu display para flex, alterar sua altura e largura, sua cor de fundo, alinhar os itens, dar espaçamento entre os itens e adiconar um padding</p>
+<p>Utilizei o seletor de tipo 'nav' para modificar tudo que está dentro da minha navigation bar, alterei o seu display para flex, alterar sua altura e largura, sua cor de fundo, alinhar os itens, dar espaçamento entre os itens e adiconar um padding</p>
 
 <p>Utilizei o seletor de classe 'nav.nome_site' para alterar todo o conteúdo que está dentro da div 'nome_site' que está dentro da minha nav, nela eu alterei sua cor, tamanho da fonte e a família da fonte</p>
 
@@ -43,9 +43,19 @@
 
 <p>Utilizei o seletor de tipo 'nav ul' para alterar o que está dentro da tag ul dentro da tag nav, nela eu alterei o seu display para flex e o estilo da lista para none</p>
 
-<p>Utilizei o seletor de tipo 'nav ul li para alterar tudo que está dentro das tags ul e li que estão dentro da tag nav, nela eu alterei apenas a sua margem </p>
+<p>Utilizei o seletor de tipo 'nav ul li" para alterar tudo que está dentro da tag li que estão dentro da tag nav ul, nela eu alterei apenas a sua margem </p>
 
 <p>Utilizei o seletor de tipo 'nav ul li a' para alterar tudo que está dentro das tags ul, li e a que estão dentro da tag nav, nela eu alterei a sua cor para preto, coloquei a decoração do texto para none, alterei o tamanho da fonte, adicionei um padding, coloquei um border radius, adicionei um letter spacing e troquei a família da fonte</p>
+
+<p>Utilizei o seletor de tipo 'nav ul li a:hover' para que quando o usuário passar o mouse por cima do conteúdo que está dentro do a que está dentro do nav ul li, o background mudasse de cor para cinza</p>
+
+<p>Utilizei o seletor de tipo 'footer' para modificar todo o conteúdo que estiver dentro do rodapé do meu site, nele eu alterei o seu tamanho, a sua cor, a sua posição na página e também a família da sua fonte</p>
+
+<p>Utilizei o seletor de classe 'footer_informação' para alterar tudo que estiver dentro dessa div que se encontra dentro do meu footer, nela eu alterei a cor do seu background e adicionei um padding a ela</p>
+
+<p>Utilizei o seletor de classe 'footer_copyright' para alterar tudo que estiver dentro dessa div que se encontra dentro do meu footer, nela eu alterei o seu display para flex, alterei o justify content para center, alterei a sua cor de fundo, e mudei o tamanho da fonte</p>
+
+
 
 
 <h1>🔗Link para o site</h1>
