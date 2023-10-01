@@ -18,12 +18,10 @@ nav {
     align-items: center;
     justify-content: space-between;
     padding: 0 50px 0 100px;
-    flex-wrap: wrap;
-
 }
 
 nav .logo {
-    color: white;
+    color: black;
     font-size: 35px;
     font-weight: 600;
 
@@ -36,7 +34,6 @@ nav .logo {
 
 nav ul {
     display: flex;
-    flex-wrap: wrap;
     list-style: none;
 
 }
@@ -46,14 +43,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: black;
     text-decoration: none;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 15px;
     border-radius: 5px;
     letter-spacing: 1px;
-    transition: all 0.3s ease;
+    font-family:arial;
 }
 
 
@@ -62,62 +59,16 @@ nav ul li a:hover {
 
 }
 
-nav .menu-btn i {
-    color: white;
-    cursor: pointer;
-    display: none;
-}
-
-@media (max-width:920px) {
-    nav .menu-btn i {
-        display: block;
-    }
-
-    nav ul {
-        position: fixed;
-        top: 80px;
-        left: -100%;
-        background-color: green;
-        height: 100vh;
-        width: 100%;
-        text-align: Center;
-        display: block;
-        transition: all 0.3s ease;
-
-    }
-
-    nav ul.open {
-        left: 0;
-    }
-
-    nav ul li {
-        width: 100%;
-        margin: 50px 0;
-
-    }
-
-    nav ul li a {
-        font-size: 23px;
-    }
-
-   
-    
-}
-
 footer {
     width:100%;
     color: black;
     bottom: 0;
     left: 0;
-  
-
 }
 
 #footer_content {
     background-color: rgb(184, 117, 117);
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    padding: 3rem 3.5rem;
+    padding:25px;
 
 }
 
@@ -130,20 +81,8 @@ footer {
     font-weight: 100;
 }
 
-@media screen and (max-width: 768px) {
-    #footer_content {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 2rem;
-    }
-}
 
-@media screen and (max-width: 768px) {
-    #footer_content {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 2rem;
 
-    }
-}
 
 .corpo {
     background-color: grey;
