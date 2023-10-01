@@ -1,7 +1,6 @@
-<h1>Título do projeto</h1>
-Doe sangue
+<h1>Doe sangue</h1>
 
-Criei um site sobre doação de sangue
+<p>Criei este site para enfatizar a importância da doação de sangue. Abordei dúvidas frequentes que as pessoas tem em relação a isso e falei um pouco sobre os diferentes tipos sanguíneos</p>
 Um parágrafo da descrição do projeto vai aqui
 
 🚀 Começando
