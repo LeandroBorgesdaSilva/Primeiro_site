@@ -39,9 +39,13 @@
 
 <p>Utilizei o seletor de classe</p>
 
-<p>Utilizei o seletor de classe ".inicio alterar </p>
+<p>Utilizei o seletor de classe '.inicio' para alterar essa minha div que eu uso como Título para as minhas páginas, nela eu centralizei o texto, adicionei um padding, mudei a família da fonte e aumentei o tamanho da fonte</p>
 
+<p>Utilizei o seletor de tipo 'nav ul' para alterar o que está dentro da tag ul dentro da tag nav, nela eu alterei o seu display para flex e o estilo da lista para none</p>
 
+<p>Utilizei o seletor de tipo 'nav ul li para alterar tudo que está dentro das tags ul e li que estão dentro da tag nav, nela eu alterei apenas a sua margem </p>
+
+<p>Utilizei o seletor de tipo 'nav ul li a' para alterar tudo que está dentro das tags ul, li e a que estão dentro da tag nav, nela eu alterei a sua cor para preto, coloquei a decoração do texto para none, alterei o tamanho da fonte, adicionei um padding, coloquei um border radius, adicionei um letter spacing e troquei a família da fonte</p>
 
 
 <h1>🔗Link para o site</h1>
