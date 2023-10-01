@@ -28,6 +28,10 @@
 
 <p>Title: A tag title no HTML é usada para definir o título da página da web. O texto especificado dentro da tag title é exibido na barra de título do navegador da web quando a página é carregada e é usado para identificar a página em marcadores e histórico de navegação. O título da página é uma parte crucial da estrutura HTML, pois desempenha vários papéis importantes</p>
 
+<p>P: A tag p no HTML é usada para criar parágrafos de texto em uma página da web. Ela é um elemento de texto que define blocos de conteúdo como parágrafos distintos. A função principal da tag p é criar uma quebra clara entre blocos de texto, indicando ao navegador que um novo parágrafo começou</p>
+
+<p>H1: A tag h1 no HTML é usada para definir o cabeçalho principal (ou título principal) de uma página da web. Ela representa o nível mais alto de cabeçalho e é usada para identificar o título ou o assunto principal da página. A função principal da tag h1 é fornecer uma estrutura semântica para o conteúdo da página e indicar seu tópico principal aos mecanismos de busca e leitores de tela.</p>
+
 <h1>🏡Estrutura de seletores CSS que usei em meu site</h1>
 <p>Utilizei o seletor universal * para alterar o padding, margin e box-sizing de todos os elementos da minha página</p>
 
