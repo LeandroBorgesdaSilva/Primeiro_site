@@ -55,6 +55,14 @@
 
 <p>Utilizei o seletor de classe 'footer_copyright' para alterar tudo que estiver dentro dessa div que se encontra dentro do meu footer, nela eu alterei o seu display para flex, alterei o justify content para center, alterei a sua cor de fundo, e mudei o tamanho da fonte</p>
 
+<p>Utilizei o seletor de classe 'corpo' para alterar tudo que estiver dentro dessa div que se encontra no corpo do meu site, nela eu alterei a cor do seu background, adicionei um padding e um border radius, adicionei também um borda e uma margem</p>
+
+<p>Utilizei o seletor de classe 'corpo p' para alterar tudo que está dentro da tag p que estiver dentro da div corpo, nela eu alterei o tamanho da fonte, a família da fonte e adicionei um padding </p>
+
+<p>Utilizei o seletor de classe 'corpo h1' para alterar tudo que está dentro da tag h1 que estiver dentro da div corpo, nela eu alterei o tamanho da fonte e a família da fonte</p>
+
+<p>Utilizei o seletor de classe 'video' para alterar tudo que estiver dentro dessa div, nela eu apenas adicionei um padding</p>
+
 
 
 
