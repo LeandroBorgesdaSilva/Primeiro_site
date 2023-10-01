@@ -7,13 +7,7 @@
 <p>Desenvolvi este site utilizando HTML e CSS</p>
 
 <h1>✒️Autores</h1>
-<p>o site foi contruido inteiramente por mim, leandro Borges :sunglasses:</p>
-💔💔💔💔
-📄 Licença
-Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
+<p>o site foi contruido inteiramente por mim, leandro Borges 😎</p>
 
-🎁 Expressões de gratidão
-Conte a outras pessoas sobre este projeto 📢;
-Convide alguém da equipe para uma cerveja 🍺;
-Um agradecimento publicamente 🫂;
-etc.
+
+
