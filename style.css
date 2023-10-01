@@ -24,11 +24,14 @@ nav .nome_site {
     color: black;
     font-size: 35px;
     font-weight: 600;
+    font-family: arial;
 }
 
 .inicio {
     text-align: center;
     padding:10px;
+    font-family: arial;
+    font-size: 20px;
 }
 
 nav ul {
@@ -63,6 +66,7 @@ footer {
     color: black;
     bottom: 0;
     left: 0;
+    font-family:arial;
 }
 
 .footer_informação {
@@ -74,13 +78,10 @@ footer {
 .footer_copyright {
     display: flex;
     justify-content: center;
-    align-items: flex-end;
     background-color: rgb(110, 49, 49);
-    font-size: 1.5rem;
+    font-size: 25px;
     font-weight: 100;
 }
-
-
 
 .corpo {
     background-color: grey;
