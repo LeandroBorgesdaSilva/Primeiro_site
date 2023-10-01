@@ -9,6 +9,9 @@
 <h1>✒️Autores</h1>
 <p>o site foi contruido inteiramente por mim, leandro Borges 😎</p>
 
+<h1>🏠Estrutura do HTML</h1>
+<p>Head: em um documento HTML é usada para incluir informações e metadados que não são diretamente visíveis na página da web, mas desempenham papéis importantes relacionados à estrutura, formatação, otimização e funcionalidade do documento</p>
+
 <h1>🔗Link para o site</h1>
 <p>https://doesangueagora.netlify.app</p>
 
