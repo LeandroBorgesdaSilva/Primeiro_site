@@ -37,19 +37,17 @@
 
 <p>Utilizei o seletor de tipo 'body' para alterar tudo que estiver dentro do body do meu site, nele eu alterei a cor do background do meu site e também esconder o scrool para os lados</p>
 
-<p>Utilizei o seletor de tipo 'nav' para modificar tudo que está dentro da minha navigation bar, alterei o seu display para flex, alterar sua altura e largura, sua cor de fundo, alinhar os itens, dar espaçamento entre os itens e adiconar um padding</p>
+<p>Utilizei o seletor de tipo 'nav' para modificar tudo que está dentro da minha navigation bar, alterei o seu display para flex, alterar sua altura e largura, sua cor de fundo, alinhar os itens, dar espaçamento entre os itens e adiconei um padding</p>
 
 <p>Utilizei o seletor de classe 'nav.nome_site' para alterar todo o conteúdo que está dentro da div 'nome_site' que está dentro da minha nav, nela eu alterei sua cor, tamanho da fonte e a família da fonte</p>
 
-<p>Utilizei o seletor de classe</p>
-
 <p>Utilizei o seletor de classe '.inicio' para alterar essa minha div que eu uso como Título para as minhas páginas, nela eu centralizei o texto, adicionei um padding, mudei a família da fonte e aumentei o tamanho da fonte</p>
 
-<p>Utilizei o seletor de tipo 'nav ul' para alterar o que está dentro da tag ul dentro da tag nav, nela eu alterei o seu display para flex e o estilo da lista para none</p>
+<p>Utilizei o seletor de tipo 'nav ul' para alterar o que está dentro da tag ul dentro da nav, nela eu alterei o seu display para flex e o estilo da lista para none</p>
 
-<p>Utilizei o seletor de tipo 'nav ul li" para alterar tudo que está dentro da tag li que estão dentro da tag nav ul, nela eu alterei apenas a sua margem </p>
+<p>Utilizei o seletor de tipo 'nav ul li" para alterar tudo que está dentro da tag li que está dentro da nav ul, nela eu alterei apenas a sua margem </p>
 
-<p>Utilizei o seletor de tipo 'nav ul li a' para alterar tudo que está dentro das tags ul, li e a que estão dentro da tag nav, nela eu alterei a sua cor para preto, coloquei a decoração do texto para none, alterei o tamanho da fonte, adicionei um padding, coloquei um border radius, adicionei um letter spacing e troquei a família da fonte</p>
+<p>Utilizei o seletor de tipo 'nav ul li a' para alterar tudo que está dentro da tag a que está dentro da nav ul li, nela eu alterei a sua cor para preto, coloquei a decoração do texto para none, alterei o tamanho da fonte, adicionei um padding, coloquei um border radius, adicionei um letter spacing e troquei a família da fonte</p>
 
 <p>Utilizei o seletor de tipo 'nav ul li a:hover' para que quando o usuário passar o mouse por cima do conteúdo que está dentro do a que está dentro do nav ul li, o background mudasse de cor para cinza</p>
 
@@ -66,9 +64,6 @@
 <p>Utilizei o seletor de classe 'corpo h1' para alterar tudo que está dentro da tag h1 que estiver dentro da div corpo, nela eu alterei o tamanho da fonte e a família da fonte</p>
 
 <p>Utilizei o seletor de classe 'video' para alterar tudo que estiver dentro dessa div, nela eu apenas adicionei um padding</p>
-
-
-
 
 <h1>🔗Link para o site</h1>
 <p>https://doesangueagora.netlify.app</p>
