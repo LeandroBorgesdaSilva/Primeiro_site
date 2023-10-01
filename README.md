@@ -8,11 +8,7 @@
 
 <h1>✒️Autores</h1>
 <p>o site foi contruido inteiramente por mim, leandro Borges :sunglasses:</p>
-
-Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
-Fulano De Tal - Documentação - fulanodetal
-Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
-
+💔💔💔💔
 📄 Licença
 Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
 
