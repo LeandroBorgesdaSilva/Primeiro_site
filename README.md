@@ -10,6 +10,7 @@
 <p>o site foi contruido inteiramente por mim, leandro Borges 😎</p>
 
 <h1>🏠Estrutura do HTML</h1>
+<p>Html: A tag <html> no HTML é o elemento raiz de todo documento HTML. Ela envolve todo o conteúdo da página da web e fornece informações básicas sobre o tipo de documento e a linguagem de marcação utilizada <p>
 <p>Head: em um documento HTML é usada para incluir informações e metadados que não são diretamente visíveis na página da web, mas desempenham papéis importantes relacionados à estrutura, formatação, otimização e funcionalidade do documento</p>
 
 <h1>🔗Link para o site</h1>
