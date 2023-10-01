@@ -14,7 +14,7 @@ nav {
     display: flex;
     height: 80px;
     width: 100%;
-    background-color: red;
+    background-color: rgb(184, 117, 117);
     align-items: center;
     justify-content: space-between;
     padding: 0 50px 0 100px;
@@ -55,9 +55,9 @@ nav ul li a {
     transition: all 0.3s ease;
 }
 
-nav ul li a.active,
+
 nav ul li a:hover {
-    background: yellow;
+    background: grey;
 
 }
 
@@ -99,20 +99,16 @@ nav .menu-btn i {
         font-size: 23px;
     }
 
-    nav ul li a.active,
-    nav ul li a:hover {
-        background: none;
-        color: orange;
-    }
+   
+    
 }
 
 footer {
-    width: 100%;
-
-    color: white;
+    width:100%;
+    color: black;
     bottom: 0;
     left: 0;
-    position: fixed;
+  
 
 }
 
