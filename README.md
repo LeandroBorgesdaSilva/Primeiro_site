@@ -32,6 +32,8 @@
 
 <p>H1: A tag h1 no HTML é usada para definir o cabeçalho principal (ou título principal) de uma página da web. Ela representa o nível mais alto de cabeçalho e é usada para identificar o título ou o assunto principal da página. A função principal da tag h1 é fornecer uma estrutura semântica para o conteúdo da página e indicar seu tópico principal aos mecanismos de busca e leitores de tela.</p>
 
+<p>Video: Na linguagem HTML, a tag video é usada para incorporar elementos de vídeo em uma página da web. Ela permite que você exiba vídeos diretamente em um navegador da web, sem a necessidade de plugins ou software externo. A tag video é uma parte fundamental do HTML5 e oferece suporte nativo para reprodução de vídeo em navegadores modernos</p>
+
 <h1>🏡Estrutura de seletores CSS que usei em meu site</h1>
 <p>Utilizei o seletor universal * para alterar o padding, margin e box-sizing de todos os elementos da minha página</p>
 
